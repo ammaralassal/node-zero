@@ -1,4 +1,6 @@
-# Build a PC – Custom Computer Part Picker
+# Node_Zero – Custom Computer Part Picker
+
+#Work submitted for BTP405 @ Seneca Polytechnic
 
 An interactive web app that allows users to assemble custom PC builds by selecting compatible components — inspired by PCPartPicker. Built using React, Django, and MongoDB, and deployed with Docker on AWS.
 
