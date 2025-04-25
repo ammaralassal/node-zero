@@ -25,7 +25,7 @@ An interactive web app that allows users to assemble custom PC builds by selecti
 
 ### Backend
 - **Django REST Framework**
-- **MongoDB** (via Djongo or a custom connector)
+- **MongoDB** (MongoEngine)
 - **Django CORS Headers** and **JWT Authentication**
 
 ### DevOps / Deployment
