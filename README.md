@@ -20,7 +20,7 @@ An interactive web app that allows users to assemble custom PC builds by selecti
 ### Frontend
 - **React** with **TypeScript**
 - **TailwindCSS** + **ShadCN UI**
-- **Next.js** for server-side rendering (optional)
+- **Next.js** for server-side rendering
 - **JWT** token handling & protected routes
 
 ### Backend
