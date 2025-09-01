@@ -28,5 +28,5 @@ An interactive web app that allows users to assemble custom PC builds by selecti
 - **Django CORS Headers** and **JWT Authentication**
 
 ### DevOps / Deployment
-- **Docker** (Backend)
+- **Docker**
 - **AWS ECS / Fargate**
