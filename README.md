@@ -20,12 +20,11 @@ An interactive web app that allows users to assemble custom PC builds by selecti
 - **React** with **TypeScript**
 - **TailwindCSS** + **ShadCN UI**
 - **Next.js** for server-side rendering
-- **JWT** token handling & protected routes
+- **JWT**
 
 ### Backend
 - **Django REST Framework**
 - **MongoDB** (MongoEngine)
-- **Django CORS Headers** and **JWT Authentication**
 
 ### DevOps / Deployment
 - **Docker**
