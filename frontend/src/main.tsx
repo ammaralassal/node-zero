@@ -10,7 +10,7 @@ import {
 
 import App from "./App.tsx";
 import "./index.css";
-
+//purely for testing purposes, this key no longer works
 const stripePromise = loadStripe(
   "pk_test_51RELgrRqEZQbee0Fv1fDsU6Lbm1HFIglKt80ygu0bzQHEnfSrBXsZ1tDPkBaDFutMTKVWssPUURpO6LIPWgTNnr000b3cUFA29"
 );
